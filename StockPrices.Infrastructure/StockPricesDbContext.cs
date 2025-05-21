@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using StockPrices.Core.Entities;
 using StockPrices.Infrastructure.Entities;
 
 namespace StockPrices.Infrastructure;
@@ -17,13 +18,16 @@ public partial class StockPricesDbContext : DbContext
     }
 
     public virtual DbSet<StockPrice> StockPrices { get; set; }
+    public virtual DbSet<User> Users { get; set; }
+    public virtual DbSet<FavoriteStock> FavoriteStocks { get; set; }
+    public virtual DbSet<Comment> Comments { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=StockPricesDb;Trusted_Connection=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<StockPrice>(entity =>
+       modelBuilder.Entity<StockPrice>(entity =>
         {
             entity.HasNoKey();
 
@@ -56,6 +60,20 @@ public partial class StockPricesDbContext : DbContext
                 .IsUnicode(false)
                 .HasColumnName("volume");
         });
+
+        // Relacja User - Comment
+        modelBuilder.Entity<Comment>()
+            .HasOne(c => c.User)
+            .WithMany(u => u.Comments)
+            .HasForeignKey(c => c.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        // Relacja User - FavoriteStock
+        modelBuilder.Entity<FavoriteStock>()
+            .HasOne(f => f.User)
+            .WithMany(u => u.FavoriteStocks)
+            .HasForeignKey(f => f.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
 
         OnModelCreatingPartial(modelBuilder);
     }
