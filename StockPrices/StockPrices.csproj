@@ -12,10 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StockPrices.Application\StockPrices.Application.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\StockPrices.Infrastructure\StockPrices.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

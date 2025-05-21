@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using StockPrices.Infrastructure.Entities;
 
-namespace StockPrices.Infrastructure.Entities;
+namespace StockPrices.Infrastructure;
 
 public partial class StockPricesDbContext : DbContext
 {
