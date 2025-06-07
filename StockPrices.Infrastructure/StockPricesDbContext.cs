@@ -16,7 +16,7 @@ public partial class StockPricesDbContext : DbContext
         : base(options)
     {
     }
-
+    
     public virtual DbSet<StockPrice> StockPrices { get; set; }
     public virtual DbSet<User> Users { get; set; }
     public virtual DbSet<FavoriteStock> FavoriteStocks { get; set; }

@@ -1,12 +1,1722 @@
 {
   "Version": 1,
-  "Hash": "RNWtczts7UOVNKQiARBI7dTWEG6CoVRCIxATa5ghQPs=",
+  "Hash": "6aQApcEV54IfW6CwZXrE1sFSzLmIZH1Q+5t2ddl6bfE=",
   "Source": "StockPrices",
   "BasePath": "_content/StockPrices",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockPrices\\wwwroot",
+      "Source": "StockPrices",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\",
+      "BasePath": "_content/StockPrices",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "chart#[.{fingerprint=blv1emsbd0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wgt8er3m01",
+      "Integrity": "0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "style#[.{fingerprint=wny570d7ud}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zgpuh8fd8k",
+      "Integrity": "c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-luqfl65fm8.gz",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "chart#[.{fingerprint=luqfl65fm8}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n1csat163y",
+      "Integrity": "+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-mxxtd6yp4d.gz",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "index#[.{fingerprint=mxxtd6yp4d}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "myd0tym98j",
+      "Integrity": "UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-lgssy2vo8f.gz",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "script#[.{fingerprint=lgssy2vo8f}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ya9xpwjidb",
+      "Integrity": "WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "chart#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "luqfl65fm8",
+      "Integrity": "rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chart.html"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "chart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "blv1emsbd0",
+      "Integrity": "L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chart.js"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mxxtd6yp4d",
+      "Integrity": "9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lgssy2vo8f",
+      "Integrity": "6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+      "SourceId": "StockPrices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\",
+      "BasePath": "_content/StockPrices",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wny570d7ud",
+      "Integrity": "vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "chart.blv1emsbd0.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001550387597"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blv1emsbd0"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI="
+        }
+      ]
+    },
+    {
+      "Route": "chart.blv1emsbd0.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blv1emsbd0"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI="
+        }
+      ]
+    },
+    {
+      "Route": "chart.blv1emsbd0.js.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blv1emsbd0"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA="
+        }
+      ]
+    },
+    {
+      "Route": "chart.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-luqfl65fm8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002610966057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs="
+        }
+      ]
+    },
+    {
+      "Route": "chart.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs="
+        }
+      ]
+    },
+    {
+      "Route": "chart.html.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-luqfl65fm8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M="
+        }
+      ]
+    },
+    {
+      "Route": "chart.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001550387597"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI="
+        }
+      ]
+    },
+    {
+      "Route": "chart.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L7zhkpDzB/lkMUfFfe3UkSXyU0w65wN/bT97NNY+uFI="
+        }
+      ]
+    },
+    {
+      "Route": "chart.js.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA="
+        }
+      ]
+    },
+    {
+      "Route": "chart.luqfl65fm8.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-luqfl65fm8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002610966057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "luqfl65fm8"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs="
+        }
+      ]
+    },
+    {
+      "Route": "chart.luqfl65fm8.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "luqfl65fm8"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs="
+        }
+      ]
+    },
+    {
+      "Route": "chart.luqfl65fm8.html.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-luqfl65fm8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "luqfl65fm8"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+5mY5m+aidcSSVeiC7ADuHuhr2NLEJ20wLHkY/pR41M="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-mxxtd6yp4d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001307189542"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "764"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-mxxtd6yp4d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA="
+        }
+      ]
+    },
+    {
+      "Route": "index.mxxtd6yp4d.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-mxxtd6yp4d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001307189542"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "764"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxxtd6yp4d"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U="
+        }
+      ]
+    },
+    {
+      "Route": "index.mxxtd6yp4d.html",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxxtd6yp4d"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U="
+        }
+      ]
+    },
+    {
+      "Route": "index.mxxtd6yp4d.html.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-mxxtd6yp4d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxxtd6yp4d"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UhQ/TXvH2G3yspNDJYIi073ThdmT+VG10OEMPMZDILA="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-lgssy2vo8f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001257861635"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "794"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-lgssy2vo8f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng="
+        }
+      ]
+    },
+    {
+      "Route": "script.lgssy2vo8f.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-lgssy2vo8f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001257861635"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "794"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgssy2vo8f"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU="
+        }
+      ]
+    },
+    {
+      "Route": "script.lgssy2vo8f.js",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgssy2vo8f"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+aBGz2WyvKBtqa3ybXdejhktNGBnROqzuKM33hIjBU="
+        }
+      ]
+    },
+    {
+      "Route": "script.lgssy2vo8f.js.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-lgssy2vo8f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgssy2vo8f"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpYE/SRykt9xSTq+7sBoAxAjgRt9h4y86O3tB9G+mng="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006711409396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI="
+        }
+      ]
+    },
+    {
+      "Route": "style.wny570d7ud.css",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006711409396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wny570d7ud"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk="
+        }
+      ]
+    },
+    {
+      "Route": "style.wny570d7ud.css",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wny570d7ud"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDXBnjoxztNNhJo5gg097NTdjtXBwNaGazwra4thyRk="
+        }
+      ]
+    },
+    {
+      "Route": "style.wny570d7ud.css.gz",
+      "AssetFile": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:28:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wny570d7ud"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI="
+        }
+      ]
+    }
+  ]
 }

@@ -12,6 +12,7 @@ namespace StockPrices.Controllers
         {
             dbContext = _dbContext;
         }
+        [HttpGet]
         public ActionResult<IEnumerable<StockPrice>> GetAll()
         {
             var result = dbContext.StockPrices.Take(100).ToList();

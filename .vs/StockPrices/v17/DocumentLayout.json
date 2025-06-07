@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C6F16D-D0C6-4204-9968-52B830B5B031}|StockPrices.Application\\StockPrices.Application.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C6F16D-D0C6-4204-9968-52B830B5B031}|StockPrices.Application\\StockPrices.Application.csproj|solutionrelative:stockprices.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.core\\entities\\favoritestock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|solutionrelative:stockprices.core\\entities\\favoritestock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|solutionrelative:stockprices.core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.infrastructure\\stockpricesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|solutionrelative:stockprices.infrastructure\\stockpricesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C6F16D-D0C6-4204-9968-52B830B5B031}|StockPrices.Application\\StockPrices.Application.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.application\\stockprices.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7C6F16D-D0C6-4204-9968-52B830B5B031}|StockPrices.Application\\StockPrices.Application.csproj|solutionrelative:stockprices.application\\stockprices.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.core\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|solutionrelative:stockprices.core\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\controllers\\stockpricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\controllers\\stockpricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|solutionrelative:stockprices.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\wwwroot\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\wwwroot\\chart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\chart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices\\stockprices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\stockprices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.infrastructure\\migrations\\stockpricesdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|solutionrelative:stockprices.infrastructure\\migrations\\stockpricesdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.infrastructure\\migrations\\20250521182755_init_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|solutionrelative:stockprices.infrastructure\\migrations\\20250521182755_init_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.core\\entities\\stockprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD54E2-4A2F-47B4-AA28-78EA40E8023C}|StockPrices.Core\\StockPrices.Core.csproj|solutionrelative:stockprices.core\\entities\\stockprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stockprices\\stockprices.infrastructure\\migrations\\20250527205052_init_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B02D06-9F61-4816-9382-4AC7CB49A879}|StockPrices.Infrastructure\\StockPrices.Infrastructure.csproj|solutionrelative:stockprices.infrastructure\\migrations\\20250527205052_init_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\UserDto.cs",
+              "RelativeDocumentMoniker": "StockPrices.Core\\Entities\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\UserDto.cs",
+              "RelativeToolTip": "StockPrices.Core\\Entities\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:06:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "StockPrices.Application\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "StockPrices.Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:04:10.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockPrices.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Application\\StockPrices.Application.csproj",
+              "RelativeDocumentMoniker": "StockPrices.Application\\StockPrices.Application.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Application\\StockPrices.Application.csproj",
+              "RelativeToolTip": "StockPrices.Application\\StockPrices.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T12:03:49.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250521182755_init_1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\Migrations\\20250521182755_init_1.cs",
+              "RelativeDocumentMoniker": "StockPrices.Infrastructure\\Migrations\\20250521182755_init_1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\Migrations\\20250521182755_init_1.cs",
+              "RelativeToolTip": "StockPrices.Infrastructure\\Migrations\\20250521182755_init_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:03:20.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockPricesDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\Migrations\\StockPricesDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StockPrices.Infrastructure\\Migrations\\StockPricesDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\Migrations\\StockPricesDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StockPrices.Infrastructure\\Migrations\\StockPricesDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:03:21.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockPricesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\Controllers\\StockPricesController.cs",
+              "RelativeDocumentMoniker": "StockPrices\\Controllers\\StockPricesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\Controllers\\StockPricesController.cs",
+              "RelativeToolTip": "StockPrices\\Controllers\\StockPricesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockPricesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\StockPricesDbContext.cs",
+              "RelativeDocumentMoniker": "StockPrices.Infrastructure\\StockPricesDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\StockPricesDbContext.cs",
+              "RelativeToolTip": "StockPrices.Infrastructure\\StockPricesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:08:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "StockPrices.Core\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\Comment.cs",
+              "RelativeToolTip": "StockPrices.Core\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:03.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoriteStock.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\FavoriteStock.cs",
+              "RelativeDocumentMoniker": "StockPrices.Core\\Entities\\FavoriteStock.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\FavoriteStock.cs",
+              "RelativeToolTip": "StockPrices.Core\\Entities\\FavoriteStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:04.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+              "RelativeToolTip": "StockPrices\\wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T09:09:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StockPrices\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StockPrices\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:01:58.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250527205052_init_2.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\Migrations\\20250527205052_init_2.cs",
+              "RelativeDocumentMoniker": "StockPrices.Infrastructure\\Migrations\\20250527205052_init_2.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Infrastructure\\Migrations\\20250527205052_init_2.cs",
+              "RelativeToolTip": "StockPrices.Infrastructure\\Migrations\\20250527205052_init_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:50:52.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+              "RelativeToolTip": "StockPrices\\wwwroot\\index.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T09:08:43.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+              "RelativeToolTip": "StockPrices\\wwwroot\\script.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T09:09:47.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "StockPrices.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\User.cs",
+              "RelativeToolTip": "StockPrices.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:05.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockPrices.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\StockPrices.csproj",
+              "RelativeDocumentMoniker": "StockPrices\\StockPrices.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\StockPrices.csproj",
+              "RelativeToolTip": "StockPrices\\StockPrices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T09:19:37.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\Program.cs",
+              "RelativeDocumentMoniker": "StockPrices\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\Program.cs",
+              "RelativeToolTip": "StockPrices\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:08:07.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "chart.html",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\chart.html",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+              "RelativeToolTip": "StockPrices\\wwwroot\\chart.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T11:21:12.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "chart.js",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\chart.js",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+              "RelativeToolTip": "StockPrices\\wwwroot\\chart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T11:21:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockPrice.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\StockPrice.cs",
+              "RelativeDocumentMoniker": "StockPrices.Core\\Entities\\StockPrice.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices.Core\\Entities\\StockPrice.cs",
+              "RelativeToolTip": "StockPrices.Core\\Entities\\StockPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:05.068Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

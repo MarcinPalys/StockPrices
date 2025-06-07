@@ -78,3 +78,9 @@ C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\runtimes\wi
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\StockPrices.Infrastructure.dll
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\StockPrices.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\StockPrices.staticwebassets.runtime.json
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\roacx9k463-luqfl65fm8.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\59ft5bf7op-blv1emsbd0.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tzxd6jza58-mxxtd6yp4d.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\wnkn62c2s5-lgssy2vo8f.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\fcwmb33owk-wny570d7ud.gz

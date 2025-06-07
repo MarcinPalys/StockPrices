@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\chart.js
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\style.css
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\chart.html
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\index.html
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\script.js
+wwwroot\chart.html
+wwwroot\chart.js
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\style.css
