@@ -1,4 +1,5 @@
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\chart.js
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\chart-comments.js
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\style.css
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\login.html
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\register.html
@@ -9,6 +10,7 @@ C:\Users\ADMIN\source\repos\StockPrices\StockPrices\wwwroot\script.js
 wwwroot\auth.js
 wwwroot\chart.html
 wwwroot\chart.js
+wwwroot\chart-comments.js
 wwwroot\index.html
 wwwroot\login.html
 wwwroot\register.html

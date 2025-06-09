@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>luqfl65fm8</Fingerprint>
-      <Integrity>rVJsVAZOzxRD5k5fak69u+TzUk0IhvbxSDw3OjTcpvs=</Integrity>
+      <Fingerprint>cs09zhvdta</Fingerprint>
+      <Integrity>PINt/eGaXeclzORkhkMkbO2BLHpXs3wvzkwVcQoNT1Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart.html'))</OriginalItemSpec>
@@ -54,6 +54,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart.js'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart-comments.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StockPrices</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StockPrices</BasePath>
+      <RelativePath>chart-comments.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f4lx30q6p7</Fingerprint>
+      <Integrity>L+yGR6MXQxUDp1F9F+yLWmOfU7HgZikgLdC8jhKiSM8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart-comments.js'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>StockPrices</SourceId>
@@ -66,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mxxtd6yp4d</Fingerprint>
-      <Integrity>9klhML/VxvOkl9cVqbFeSyqTNf8wbXnZ68bB+gsTM6U=</Integrity>
+      <Fingerprint>kijlqow8r6</Fingerprint>
+      <Integrity>9O+fmr39qH6To1VZGxQUm9oHsrkzpde+fDaAYp37+i4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -84,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f7z17bx6ci</Fingerprint>
-      <Integrity>e2tUwQdKAN0KQs8tp/OSiTZ7QVesLW4hgX4gOWexY1c=</Integrity>
+      <Fingerprint>w71m8x5rlr</Fingerprint>
+      <Integrity>VBQH7gXX2EDao0lVU3UHdIpi6j2j8e/WtLpmQ81V9zE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</OriginalItemSpec>
@@ -102,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2np2jv0wuo</Fingerprint>
-      <Integrity>Tr2YAwsD+51VnvKJ7ZwkBYlATzhgEHSd7JhSz6V3VYc=</Integrity>
+      <Fingerprint>po2vtn57y9</Fingerprint>
+      <Integrity>p9cYZ4krJD7Fq7V3/x0otZF9VMUu45wcSIKXPJXcQkQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\register.html'))</OriginalItemSpec>

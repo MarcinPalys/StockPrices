@@ -14,6 +14,21 @@
         <a href="index.html" class="btn btn-secondary mt-4">⬅ Powrót do listy</a>
     </div>
 
+    <div class="container mt-5">
+        <h4>Komentarze</h4>
+
+        <!-- Formularz dodawania komentarza -->
+        <form id="commentForm" class="mb-4">
+            <div class="mb-2">
+                <textarea class="form-control" id="commentText" placeholder="Dodaj komentarz..." required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Dodaj komentarz</button>
+        </form>
+
+        <!-- Lista komentarzy -->
+        <ul id="commentList" class="list-group"></ul>
+    </div>
     <script src="chart.js"></script>
+    <script src="chart-comments.js"></script>
 </body>
 </html>

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\auth.js"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
+      "PackagePath": "staticwebassets\\chart-comments.js"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
       "PackagePath": "staticwebassets\\chart.html"
     },

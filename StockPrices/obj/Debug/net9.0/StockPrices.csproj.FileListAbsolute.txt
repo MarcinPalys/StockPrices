@@ -79,12 +79,13 @@ C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\runtimes\wi
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\StockPrices.Infrastructure.dll
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\StockPrices.Infrastructure.pdb
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\StockPrices.staticwebassets.runtime.json
-C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\roacx9k463-luqfl65fm8.gz
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\59ft5bf7op-blv1emsbd0.gz
-C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tzxd6jza58-mxxtd6yp4d.gz
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\wnkn62c2s5-lgssy2vo8f.gz
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\fcwmb33owk-wny570d7ud.gz
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tcw7joi61t-tspd60flob.gz
-C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\khcuat9k5g-f7z17bx6ci.gz
-C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\l44bfesqfu-2np2jv0wuo.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tzxd6jza58-kijlqow8r6.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\khcuat9k5g-w71m8x5rlr.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\l44bfesqfu-po2vtn57y9.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\roacx9k463-cs09zhvdta.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\ay63dzz1ta-f4lx30q6p7.gz
