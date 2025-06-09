@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockPrices.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0a7cb7b0279851eff798823f5da13c343f13435")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c2b286c5c2a6c0195d30b3cd338ba6f282d1a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockPrices.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockPrices.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

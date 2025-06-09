@@ -84,3 +84,7 @@ C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tzxd6jza58-mxxtd6yp4d.gz
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\wnkn62c2s5-lgssy2vo8f.gz
 C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\fcwmb33owk-wny570d7ud.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tcw7joi61t-tspd60flob.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\khcuat9k5g-f7z17bx6ci.gz
+C:\Users\ADMIN\source\repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\l44bfesqfu-2np2jv0wuo.gz

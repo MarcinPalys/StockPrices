@@ -9,19 +9,14 @@ using StockPrices.Infrastructure;
 namespace StockPrices.Application.Services
 {
     public class AccountService
-    {
-        public AccountService()
-        {
-            
-        }
+    {       
         public void RegisterUser(UserDto user)
         {
             var newUser = new User()
             {
                 Email = user.Email,
                 Password = user.Password,
-            };
-           
+            };        
         }
     }
 }
