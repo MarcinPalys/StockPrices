@@ -71,5 +71,17 @@ namespace StockPrices.Controllers
             }
             return Ok(result);
         }
+        [HttpGet("page")]
+        public ActionResult<IEnumerable<StockPrice>> GetPaged([FromQuery] int page = 1, [FromQuery] int pageSize = 20)
+        {
+            var result = dbContext.StockPrices
+                .OrderBy(s => s.Date)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            return Ok(result);
+        }
+
     }
 }
