@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f4lx30q6p7</Fingerprint>
-      <Integrity>L+yGR6MXQxUDp1F9F+yLWmOfU7HgZikgLdC8jhKiSM8=</Integrity>
+      <Fingerprint>2624king3z</Fingerprint>
+      <Integrity>+m9wpF7FpwlZWYrbUwZhVvU1C+X5yleHVyo/m10ELYA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart-comments.js'))</OriginalItemSpec>

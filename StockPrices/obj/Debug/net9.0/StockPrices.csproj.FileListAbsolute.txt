@@ -156,7 +156,6 @@ C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\StockPrices.
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\StockPrices.sourcelink.json
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\scopedcss\bundle\StockPrices.styles.css
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tcw7joi61t-tspd60flob.gz
-C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\ay63dzz1ta-f4lx30q6p7.gz
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\roacx9k463-cs09zhvdta.gz
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\59ft5bf7op-blv1emsbd0.gz
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\khcuat9k5g-w71m8x5rlr.gz
@@ -180,3 +179,4 @@ C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\StockPrices.
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\ref\StockPrices.dll
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\wnkn62c2s5-1ccy484foq.gz
 C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\tzxd6jza58-x42dq4am2g.gz
+C:\Users\User\Source\Repos\StockPrices\StockPrices\obj\Debug\net9.0\compressed\ay63dzz1ta-2624king3z.gz

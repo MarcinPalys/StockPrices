@@ -75,5 +75,22 @@ namespace StockPrices.Controllers
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             return int.Parse(userIdClaim.Value);
         }
+        [HttpPut("{id}")]
+        public IActionResult UpdateComment(int id, [FromBody] string newText)
+        {
+            var userId = GetUserId();
+
+            var comment = _context.Comments.FirstOrDefault(c => c.Id == id && c.UserId == userId);
+            if (comment == null)
+            {
+                return NotFound();
+            }
+
+            comment.Text = newText;
+            _context.SaveChanges();
+
+            return Ok(comment);
+        }
+
     }
 }

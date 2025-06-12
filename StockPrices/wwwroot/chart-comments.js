@@ -47,9 +47,18 @@ function renderComments(comments) {
         const li = document.createElement("li");
         li.className = "list-group-item d-flex justify-content-between align-items-center";
         li.innerHTML = `
-      <span>${comment.text}</span>
-      <button class="btn btn-sm btn-outline-danger" onclick="deleteComment(${comment.id})">Usuń</button>
-    `;
+  <div class="w-100 d-flex justify-content-between align-items-center">
+    <div>
+      <span class="comment-text">${comment.text}</span>
+      <small class="text-muted ms-2">(${new Date(comment.createdAt).toLocaleString()})</small>
+    </div>
+    <div class="btn-group btn-group-sm">
+      <button class="btn btn-outline-secondary" onclick="editComment(${comment.id}, '${comment.text.replace(/'/g, "\\'")}')">Edytuj</button>
+      <button class="btn btn-outline-danger" onclick="deleteComment(${comment.id})">Usuń</button>
+    </div>
+  </div>
+`;
+
         commentList.appendChild(li);
     });
 }
@@ -77,6 +86,26 @@ commentForm.addEventListener("submit", e => {
         })
         .catch(err => alert(err.message));
 });
+
+function editComment(id, oldText) {
+    const newText = prompt("Edytuj komentarz:", oldText);
+    if (newText === null || newText.trim() === "") return;
+
+    fetch(`${COMMENTS_API}/${id}`, {
+        method: "PUT",
+        headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${token}`
+        },
+        body: JSON.stringify(newText)
+    })
+        .then(res => {
+            if (!res.ok) throw new Error("Nie udało się zaktualizować komentarza.");
+            return res.json();
+        })
+        .then(() => loadComments())
+        .catch(err => alert(err.message));
+}
 
 function deleteComment(id) {
     if (!confirm("Na pewno chcesz usunąć komentarz?")) return;
