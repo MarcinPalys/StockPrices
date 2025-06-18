@@ -1,0 +1,10 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+#resultsTable tbody tr td {
+    cursor: pointer;
+}
+
+#resultsTable tbody tr:hover {
+    background-color: #f1f1f1;
+}

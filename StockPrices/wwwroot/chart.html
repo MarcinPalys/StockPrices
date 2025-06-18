@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <title>Wykres akcji</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-light">
+
+    <div class="container py-5">
+        <h1 class="mb-4" id="heading">Wykres akcji</h1>
+        <canvas id="stockChart" width="800" height="400"></canvas>
+        <a href="index.html" class="btn btn-secondary mt-4">⬅ Powrót do listy</a>
+    </div>
+
+    <div class="container mt-5">
+        <h4>Komentarze</h4>
+
+        <!-- Formularz dodawania komentarza -->
+        <form id="commentForm" class="mb-4">
+            <div class="mb-2">
+                <textarea class="form-control" id="commentText" placeholder="Dodaj komentarz..." required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Dodaj komentarz</button>
+        </form>
+
+        <!-- Lista komentarzy -->
+        <ul id="commentList" class="list-group"></ul>
+    </div>
+    <script src="chart.js"></script>
+    <script src="chart-comments.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js",
+      "PackagePath": "staticwebassets\\auth.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js",
+      "PackagePath": "staticwebassets\\chart-comments.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html",
+      "PackagePath": "staticwebassets\\chart.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js",
+      "PackagePath": "staticwebassets\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StockPrices.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StockPrices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.StockPrices.props",
+      "PackagePath": "build\\StockPrices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.StockPrices.props",
+      "PackagePath": "buildMultiTargeting\\StockPrices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.StockPrices.props",
+      "PackagePath": "buildTransitive\\StockPrices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
