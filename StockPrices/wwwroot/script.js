@@ -1,4 +1,4 @@
-﻿const API_BASE = "https://localhost:7235/api/StockPrices";
+const API_BASE = "https://localhost:7235/api/StockPrices";
 let chart = null;
 let currentPage = 1;
 const pageSize = 20;

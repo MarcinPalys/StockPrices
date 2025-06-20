@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices.Core\\StockPrices.Core.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices.Core\\StockPrices.Core.csproj",
       "projectName": "StockPrices.Core",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices.Core\\StockPrices.Core.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices.Core\\StockPrices.Core.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices.Core\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

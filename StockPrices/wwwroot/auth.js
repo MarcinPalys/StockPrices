@@ -1,4 +1,4 @@
-﻿const API_BASE = "https://localhost:7235/api/account";
+const API_BASE = "https://localhost:7235/api/account";
 
 document.addEventListener("DOMContentLoaded", () => {
     const registerForm = document.getElementById("registerForm");
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 body: JSON.stringify({ email, password })
             });
 
-            if (res.ok) {
+            if (res.ok) { 
                 alert("Rejestracja zakończona sukcesem. Możesz się zalogować.");
                 window.location.href = "login.html";
             } else {

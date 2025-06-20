@@ -273,3 +273,6 @@ C:\Users\User\Source\Repos\StockPrices1\StockPrices\obj\Debug\net9.0\ref\StockPr
 C:\Users\User\Source\Repos\StockPrices1\StockPrices\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\Source\Repos\StockPrices1\StockPrices\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\User\Source\Repos\StockPrices1\StockPrices\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Source\Repos\StockPrices\StockPrices\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Source\Repos\StockPrices\StockPrices\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Source\Repos\StockPrices\StockPrices\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

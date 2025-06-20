@@ -1,4 +1,4 @@
-﻿const API_BASE = "https://localhost:7235/api/StockPrices";
+const API_BASE = "https://localhost:7235/api/StockPrices";
 const urlParams = new URLSearchParams(window.location.search);
 const symbol = urlParams.get("symbol");
 

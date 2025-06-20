@@ -1,4 +1,4 @@
-﻿const COMMENTS_API = "https://localhost:7235/api/comments";
+const COMMENTS_API = "https://localhost:7235/api/comments";
 const token = localStorage.getItem("jwtToken");
 
 const commentForm = document.getElementById("commentForm");

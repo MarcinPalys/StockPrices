@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jKLKpYIQPXsqbit0ilngcYRa1mOHu58Pdp41QlSv22g=",
+  "Hash": "5OL4898sH6NsE5+DYi8i+1DxLRri2kCUvDsWViAFYxo=",
   "Source": "StockPrices",
   "BasePath": "_content/StockPrices",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StockPrices\\wwwroot",
       "Source": "StockPrices",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "chart#[.{fingerprint=blv1emsbd0}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "wgt8er3m01",
       "Integrity": "0O64i/FlErmYf44bZMAoMAfcvM7ql7SwmIXDMtnEqAA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "chart-comments#[.{fingerprint=2624king3z}]?.js.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ygi8g9zul6",
       "Integrity": "gpMH9Vbg5vVz/+oEl+Dm8yLfE/HPKs9RbGHYhVtuzlo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "style#[.{fingerprint=wny570d7ud}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zgpuh8fd8k",
       "Integrity": "c90BrZI4VLtjHlf1zBROvv+CYS+EoX1Ar9VI4xbG9xI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\style.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "login#[.{fingerprint=w71m8x5rlr}]?.html.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "wmtzrzjvz3",
       "Integrity": "OChX/bC7QnHR34k6xZTbbBqOWuMfPwN9lK0V256bjP4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "register#[.{fingerprint=po2vtn57y9}]?.html.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "kdzc36sr53",
       "Integrity": "GHn9mKN0whxG2gW9pA7IznrPYXSRTvR3ro0wBfS9LAw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\register.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "chart#[.{fingerprint=cs09zhvdta}]?.html.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ppdltkyh6n",
       "Integrity": "U1rQplOYcyHS6UkOtycfVPzPtPYV/h4UcHysW2BLXBM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "auth#[.{fingerprint=tspd60flob}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "jk4lxrv76n",
       "Integrity": "nThLTSYNs4CrZy/1nrCRy/xbVVX2q7DRYZKWIoW0yUo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\auth.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "index#[.{fingerprint=x42dq4am2g}]?.html.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ntfrbzqief",
       "Integrity": "JQD8RoLRlzrHnUD/J4hSfJcOrWLHvlcx8j79aJF3oQU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "script#[.{fingerprint=1ccy484foq}]?.js.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js",
+      "RelatedAsset": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "0kx5n98c2x",
       "Integrity": "IPRqB/FwStsShI7nrTJ5x6/RXdKHnwUceQHmZH+fe6k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "auth#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\auth.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "chart#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\chart.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "chart#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "chart-comments#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\chart-comments.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "login#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "register#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\register.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
       "SourceId": "StockPrices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\",
       "BasePath": "_content/StockPrices",
       "RelativePath": "style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "auth.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -453,7 +453,7 @@
     },
     {
       "Route": "auth.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -490,7 +490,7 @@
     },
     {
       "Route": "auth.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -535,7 +535,7 @@
     },
     {
       "Route": "auth.tspd60flob.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -598,7 +598,7 @@
     },
     {
       "Route": "auth.tspd60flob.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "Route": "auth.tspd60flob.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tcw7joi61t-tspd60flob.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -696,7 +696,7 @@
     },
     {
       "Route": "chart.blv1emsbd0.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -759,7 +759,7 @@
     },
     {
       "Route": "chart.blv1emsbd0.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -804,7 +804,7 @@
     },
     {
       "Route": "chart.blv1emsbd0.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -857,7 +857,7 @@
     },
     {
       "Route": "chart.cs09zhvdta.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -920,7 +920,7 @@
     },
     {
       "Route": "chart.cs09zhvdta.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -965,7 +965,7 @@
     },
     {
       "Route": "chart.cs09zhvdta.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1018,7 +1018,7 @@
     },
     {
       "Route": "chart.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1073,7 +1073,7 @@
     },
     {
       "Route": "chart.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1110,7 +1110,7 @@
     },
     {
       "Route": "chart.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\roacx9k463-cs09zhvdta.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "chart.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1210,7 +1210,7 @@
     },
     {
       "Route": "chart.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1247,7 +1247,7 @@
     },
     {
       "Route": "chart.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\59ft5bf7op-blv1emsbd0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1292,7 +1292,7 @@
     },
     {
       "Route": "chart-comments.2624king3z.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1355,7 +1355,7 @@
     },
     {
       "Route": "chart-comments.2624king3z.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1400,7 +1400,7 @@
     },
     {
       "Route": "chart-comments.2624king3z.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1453,7 +1453,7 @@
     },
     {
       "Route": "chart-comments.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1508,7 +1508,7 @@
     },
     {
       "Route": "chart-comments.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1545,7 +1545,7 @@
     },
     {
       "Route": "chart-comments.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\ay63dzz1ta-2624king3z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1590,7 +1590,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1645,7 +1645,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1682,7 +1682,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1727,7 +1727,7 @@
     },
     {
       "Route": "index.x42dq4am2g.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1790,7 +1790,7 @@
     },
     {
       "Route": "index.x42dq4am2g.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1835,7 +1835,7 @@
     },
     {
       "Route": "index.x42dq4am2g.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\tzxd6jza58-x42dq4am2g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1888,7 +1888,7 @@
     },
     {
       "Route": "login.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1943,7 +1943,7 @@
     },
     {
       "Route": "login.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1980,7 +1980,7 @@
     },
     {
       "Route": "login.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2025,7 +2025,7 @@
     },
     {
       "Route": "login.w71m8x5rlr.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2088,7 +2088,7 @@
     },
     {
       "Route": "login.w71m8x5rlr.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2133,7 +2133,7 @@
     },
     {
       "Route": "login.w71m8x5rlr.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\khcuat9k5g-w71m8x5rlr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2186,7 +2186,7 @@
     },
     {
       "Route": "register.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2241,7 +2241,7 @@
     },
     {
       "Route": "register.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2278,7 +2278,7 @@
     },
     {
       "Route": "register.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2323,7 +2323,7 @@
     },
     {
       "Route": "register.po2vtn57y9.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2386,7 +2386,7 @@
     },
     {
       "Route": "register.po2vtn57y9.html",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2431,7 +2431,7 @@
     },
     {
       "Route": "register.po2vtn57y9.html.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\l44bfesqfu-po2vtn57y9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2484,7 +2484,7 @@
     },
     {
       "Route": "script.1ccy484foq.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2547,7 +2547,7 @@
     },
     {
       "Route": "script.1ccy484foq.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2592,7 +2592,7 @@
     },
     {
       "Route": "script.1ccy484foq.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2645,7 +2645,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2700,7 +2700,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2737,7 +2737,7 @@
     },
     {
       "Route": "script.js.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\wnkn62c2s5-1ccy484foq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2782,7 +2782,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2837,7 +2837,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2874,7 +2874,7 @@
     },
     {
       "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2919,7 +2919,7 @@
     },
     {
       "Route": "style.wny570d7ud.css",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2982,7 +2982,7 @@
     },
     {
       "Route": "style.wny570d7ud.css",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3027,7 +3027,7 @@
     },
     {
       "Route": "style.wny570d7ud.css.gz",
-      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
+      "AssetFile": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\obj\\Debug\\net9.0\\compressed\\fcwmb33owk-wny570d7ud.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

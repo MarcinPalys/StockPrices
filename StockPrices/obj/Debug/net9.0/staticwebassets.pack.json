@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\auth.js",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
       "PackagePath": "staticwebassets\\auth.js"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart-comments.js",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
       "PackagePath": "staticwebassets\\chart-comments.js"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.html",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
       "PackagePath": "staticwebassets\\chart.html"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\chart.js",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
       "PackagePath": "staticwebassets\\chart.js"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\index.html",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\login.html",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\register.html",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
       "PackagePath": "staticwebassets\\register.html"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\script.js",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
       "PackagePath": "staticwebassets\\script.js"
     },
     {
-      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices1\\StockPrices\\wwwroot\\style.css",
+      "Id": "C:\\Users\\User\\Source\\Repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },
     {

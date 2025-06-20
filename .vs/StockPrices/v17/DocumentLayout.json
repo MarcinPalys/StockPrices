@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\StockPrices1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\StockPrices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\chart-comments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\chart-comments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\chart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\chart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|c:\\users\\user\\source\\repos\\stockprices\\stockprices\\wwwroot\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C16B2CC2-0A88-4198-AB1F-CCBCAAE430D5}|StockPrices\\StockPrices.csproj|solutionrelative:stockprices\\wwwroot\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\style.css",
+              "RelativeToolTip": "StockPrices\\wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-20T14:47:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\script.js",
+              "RelativeToolTip": "StockPrices\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-20T14:47:14.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\register.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\register.html",
+              "RelativeToolTip": "StockPrices\\wwwroot\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-20T14:46:49.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\login.html",
+              "RelativeToolTip": "StockPrices\\wwwroot\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-20T14:46:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\index.html",
+              "RelativeToolTip": "StockPrices\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-20T14:45:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chart-comments.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\chart-comments.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart-comments.js",
+              "RelativeToolTip": "StockPrices\\wwwroot\\chart-comments.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-20T14:45:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chart.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\chart.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.js",
+              "RelativeToolTip": "StockPrices\\wwwroot\\chart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-20T14:44:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chart.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\chart.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\chart.html",
+              "RelativeToolTip": "StockPrices\\wwwroot\\chart.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-20T14:44:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
+              "RelativeDocumentMoniker": "StockPrices\\wwwroot\\auth.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StockPrices\\StockPrices\\wwwroot\\auth.js",
+              "RelativeToolTip": "StockPrices\\wwwroot\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-20T14:41:06.22Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
